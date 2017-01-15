@@ -6,7 +6,8 @@ spring cloud 是一个基于Spring Boot的云应用开发工具集。提供了�
 Eureka 提供服務發現功能的組件. 是 [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/) 子項目的一個組件。
 Spring Cloud Netflix 主要内容是对Netflix公司一系列开源产品的包装，它主要提供的模块包括：服务发现（Eureka），断路器（Hystrix），智能路有（Zuul），客户端负载均衡（Ribbon）等
 
-
+# Feign
+Feign 是一个声明式的Web Service客户端，它使得编写Web Serivce客户端变得更加简单。我们只需要使用Feign来创建一个接口并用注解来配置它既可完成，大大简化了Rest 接口的调用。
 
 # reference
 
