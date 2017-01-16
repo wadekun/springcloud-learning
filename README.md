@@ -9,6 +9,9 @@ Spring Cloud Netflix 主要内容是对Netflix公司一系列开源产品的包�
 # Feign
 Feign 是一个声明式的Web Service客户端，它使得编写Web Serivce客户端变得更加简单。我们只需要使用Feign来创建一个接口并用注解来配置它既可完成，大大简化了Rest 接口的调用。
 
+# Hystrix
+
+
 # reference
 
 * http://projects.spring.io/spring-cloud/
