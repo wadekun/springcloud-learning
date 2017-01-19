@@ -12,6 +12,8 @@
       <module>service-feign-consumer</module>
       <module>service-hystrix-consumer</module>
       <module>config-server</module>
+      <module>query-service-provider</module>
+      <module>api-gateway-server</module>
   </modules>
   <packaging>pom</packaging>
 
